@@ -69,9 +69,9 @@ yarn start 1
 
 ```
 Day 01
-Time part 1: -
-Time part 2: -
-Both parts: -
+Time part 1: - 0.4582ms
+Time part 2: - 1.0027ms
+Both parts: - 1.4609ms
 ```
 
 ```
